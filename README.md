@@ -19,4 +19,7 @@ Summary of Medical-Based Papers of ICLR 2025
   - Problem Area: How to improve multilingual medical LLMs by addressing key challenges in data scarcity and model scalability
   - Solution: Creates a Dataset, And have a Post-MOE to choose and show its superior multilingual capabilities.
 - [Future-Guided Pretraining via Time-to-Event Supervision for 3D Medical Imaging](https://arxiv.org/pdf/2411.09361)
-  - Problem Area:  
+  - Problem Area:
+- [Prompt as Knowledge Bank: Boost Vision-language model via Structural Representation for zero-shot medical detection](https://openreview.net/pdf?id=l0t2rumAvR)
+- [MEDICONFUSION: CAN YOU TRUST YOUR AI RADIOLOGIST? PROBING THE RELIABILITY OF MULTIMODAL MEDICAL FOUNDATION MODELS](https://arxiv.org/pdf/2409.15477)
+- 
